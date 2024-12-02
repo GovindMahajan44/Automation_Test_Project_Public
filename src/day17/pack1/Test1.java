@@ -3,7 +3,7 @@ package day17.pack1;
 public class Test1 {
 
 	protected  int a= 100;
-	
+	int v= 39;
 	
  /* private void m1() 
 	{
